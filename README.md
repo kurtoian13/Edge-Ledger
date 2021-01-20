@@ -4,4 +4,6 @@ This site was an assignment for a short web design/ development course I took. V
 
 Download or clone and customize to your projects style.
 
-Jquery and javascript are on the index.html file, you can put them in another file and link it. I just used it as an example for myself.
+
+For simplicity and learning I put the Jquery and javascript on the index.html file, you can put them in another file and link it. 
+I just used it as an example for myself.
